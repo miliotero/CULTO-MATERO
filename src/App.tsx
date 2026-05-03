@@ -49,7 +49,7 @@ const categories = [
     desc: "Selección orgánica y premium", 
     price: "$3.300", 
     image: "/productos_yerba.png",
-    link: "https://drive.google.com/file/d/1oKqWOWirOzfQ_HAstpg1puyfyC5hSiHk/view?usp=sharing",
+    link: "https://canva.link/7j4lzq4lnb22djs",
     buttonText: "ver yerbas"
   },
   { 
@@ -57,7 +57,7 @@ const categories = [
     desc: "Trabajados artesanalmente", 
     price: "$15.000", 
     image: "/productos_mates.png",
-    link: "https://drive.google.com/file/d/1jxjn4D9f0HO8vhDoTT5KyJ7lpqmbzwMN/view?usp=sharing",
+    link: "https://canva.link/ihwk6izxj8ob0w0",
     buttonText: "ver mates"
   },
   { 
@@ -65,7 +65,7 @@ const categories = [
     desc: "Acero y alpaca", 
     price: "$7.000", 
     image: "/productos_bombilla.png",
-    link: "https://drive.google.com/file/d/1OD_pMfqFjXwCVCR_1F6LmwOueDxCfKYe/view?usp=sharing",
+    link: "https://canva.link/4irkozew267jqz4",
     buttonText: "ver bombillas"
   },
   { 
@@ -73,7 +73,7 @@ const categories = [
     desc: "Diseño minimalista en cuero", 
     price: "$15.000", 
     image: "/productos_matera.png",
-    link: "https://drive.google.com/file/d/1GQcSsTlQkbzQiWOQbkKRp_U-unujwQhe/view?usp=sharing",
+    link: "https://canva.link/wcy7pztk5i5glhs",
     buttonText: "er materas"
   },
 ];
