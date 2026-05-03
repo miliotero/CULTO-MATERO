@@ -74,7 +74,7 @@ const categories = [
     price: "$15.000", 
     image: "/productos_matera.png",
     link: "https://canva.link/wcy7pztk5i5glhs",
-    buttonText: "er materas"
+    buttonText: "ver materas"
   },
 ];
 
