@@ -47,7 +47,7 @@ const categories = [
   { 
     name: "Yerbas", 
     desc: "Selección orgánica y premium", 
-    price: "$3.300", 
+    price: "$3.500", 
     image: "/productos_yerba.png",
     link: "https://canva.link/7j4lzq4lnb22djs",
     buttonText: "ver yerbas"
@@ -55,7 +55,7 @@ const categories = [
   { 
     name: "Mates", 
     desc: "Trabajados artesanalmente", 
-    price: "$15.000", 
+    price: "$18.000", 
     image: "/productos_mates.png",
     link: "https://canva.link/ihwk6izxj8ob0w0",
     buttonText: "ver mates"
@@ -63,7 +63,7 @@ const categories = [
   { 
     name: "Bombillas", 
     desc: "Acero y alpaca", 
-    price: "$7.000", 
+    price: "$4.000", 
     image: "/productos_bombilla.png",
     link: "https://canva.link/4irkozew267jqz4",
     buttonText: "ver bombillas"
