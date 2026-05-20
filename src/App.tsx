@@ -23,7 +23,7 @@ const combos = [
     name: "Combo Clásico",
     price: "$35.000",
     description: "Mate camionero algarrobo laqueado + Bombilla pico de loro +  + Yerbero gamuzado",
-    image: "/public/combo_clasico.png",
+    image: "/combo_clasico.png",
   },
   {
     id: "regalo-especial",
