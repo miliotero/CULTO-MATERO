@@ -21,8 +21,8 @@ const combos = [
   {
     id: "combo-clasico",
     name: "Combo Clásico",
-    price: "$24.000",
-    description: "Mate camionero algarrobo + Bombilla de acero + 500g de yerba Ril Store o Grapia Milenaria + Presentación lista para regalo",
+    price: "$35.000",
+    description: "Mate camionero algarrobo laqueado + Bombilla pico de loro +  + Yerbero gamuzado",
     image: "/combo_clasico.png",
   },
   {
