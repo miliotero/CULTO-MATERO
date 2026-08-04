@@ -21,7 +21,7 @@ const combos = [
   {
     id: "combo-clasico",
     name: "Combo Clásico",
-    price: "$35.000",
+    price: "$38.000",
     description: "Mate camionero algarrobo laqueado + Bombilla pico de loro + Yerbero gamuzado",
     image: "/combo_clasico.png",
   },
@@ -29,14 +29,14 @@ const combos = [
     id: "regalo-especial",
     name: "Combo Ritual",
     price: "$62.000",
-    description: "Mate torpedo fleje cincelado + Bombillón alpaca pico bronce + 1kg de yerba Baldo o Canarias + Presentación lista para regalo",
+    description: "Mate imperial clásico + Portamate para auto + Bombilla pico de loro de acero",
     image: "/combo_ritual.png",
   },
   {
     id: "combo-premium",
     name: "Combo Culto (premium)",
-    price: "$99.000",
-    description: "Mate imperial fleje bronce cincelado + Bombillón alpaca pico bronce + 1kg de yerba Baldo o Canarias + Matera cuero reforzada + Presentación premium lista para regalo",
+    price: "$88.000",
+    description: "Mate torpedo repujado con virola de alpaca cincelada + Bombillón alpaca labrada pico bronce + Yerbero gamuzado",
     image: "/combo_culto.png",
   },
 ];
@@ -47,7 +47,7 @@ const categories = [
   { 
     name: "Yerbas", 
     desc: "Selección orgánica y premium", 
-    price: "$3.500", 
+    price: "$4.000", 
     image: "/productos_yerba.png",
     link: "https://canva.link/7j4lzq4lnb22djs",
     buttonText: "ver yerbas"
@@ -55,7 +55,7 @@ const categories = [
   { 
     name: "Mates", 
     desc: "Trabajados artesanalmente", 
-    price: "$18.000", 
+    price: "$15.000", 
     image: "/productos_mates.png",
     link: "https://canva.link/ihwk6izxj8ob0w0",
     buttonText: "ver mates"
@@ -63,7 +63,7 @@ const categories = [
   { 
     name: "Bombillas", 
     desc: "Acero y alpaca", 
-    price: "$4.000", 
+    price: "$5.000", 
     image: "/productos_bombilla.png",
     link: "https://canva.link/4irkozew267jqz4",
     buttonText: "ver bombillas"
@@ -71,7 +71,7 @@ const categories = [
   { 
     name: "Materas", 
     desc: "Diseño minimalista en cuero", 
-    price: "$15.000", 
+    price: "$20.000", 
     image: "/productos_matera.png",
     link: "https://canva.link/wcy7pztk5i5glhs",
     buttonText: "ver materas"
@@ -95,7 +95,7 @@ export default function App() {
 
   const openWhatsApp = (productName?: string) => {
     const message = productName 
-      ? `Hola! Me interesa el ${productName}. ¿Me podés dar más info?`
+      ? `Hola! Me interesan ${productName}. ¿Me podés dar más info?`
       : "Hola! Me interesa conocer más sobre sus productos. ¿Me podrían asesorar?";
     window.open(`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`, "_blank");
   };
