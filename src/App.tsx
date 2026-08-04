@@ -34,9 +34,9 @@ const combos = [
   },
   {
     id: "combo-premium",
-    name: "Combo Culto (premium)",
-    price: "$88.000",
-    description: "Mate torpedo repujado con virola de alpaca cincelada + Bombillón alpaca labrada pico bronce + Yerbero gamuzado",
+    name: "Combo Culto",
+    price: "$79.000",
+    description: "Mate torpedo repujado con virola de alpaca cincelada + Bombillón alpaca labrada pico bronce + Caja de presentación para regalo",
     image: "/combo_culto.png",
   },
 ];
